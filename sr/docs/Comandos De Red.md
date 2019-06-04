@@ -66,5 +66,5 @@ La orden ip address show se utiliza para configurar y mostrar los interfaces de 
 ###ip route show
 ![](./curso201819/sr/Captura13.png)
 ##Mikrotik
-###ip route print
+###ip route print NUEVO
 ![](./curso201819/sr/Captura14.png)
