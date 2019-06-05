@@ -8,7 +8,7 @@ Muestra la información de nuestro equipo como:
 
 >**Puerta de enlace predeterminada** - Es la dirección IP del equipo que funciona como servidor y que tiene acceso a internet.
 
-![](../img/Captura1.png)
+![](../img/Captura1.PNG)
 
 ###ipconfig /all
 Muestra la información de nuestro equipo como:
