@@ -1,9 +1,8 @@
-# Configuracion TCP/IP
-## Windows
-### ipconfig
+#Configuracion TCP/IP
+##Windows
+###ipconfig
 Muestra la información de nuestro equipo como:
->**Descripción** - Nombre del adaptador o tarjeta de red (NIC) utilizado en la conexión......
-
+>**Descripción** - Nombre del adaptador o tarjeta de red utilizado en la conexión.
 >**Dirección IPV4** - Es la dirección IP asignada al equipo en la red local.
 
 >**Puerta de enlace predeterminada** - Es la dirección IP del equipo que funciona como servidor y que tiene acceso a internet.
@@ -14,6 +13,7 @@ Muestra la información de nuestro equipo como:
 >**Descripción** - Nombre del adaptador o tarjeta de red utilizado en la conexión.
 
 >**Dirección IPV4** - Es la dirección IPv4 asignada al equipo en la red local.
+
 
 >**Puerta de enlace predeterminada** - Es la dirección IP del equipo que funciona como servidor y que tiene acceso a internet.
 
@@ -29,6 +29,7 @@ Este comando habilita al administrador para poder mostrar la dirección MAC de u
 ## Linux
 ### ifconfig
 La orden **ifconfig** se utiliza para configurar y mostrar los interfaces de red de Linux. Se indican varios parámetros:
+
 
 * La dirección IP de la maquina.
 * La mascara de la red local.
@@ -51,6 +52,7 @@ La orden **ip address show** se utiliza para configurar y mostrar los interfaces
 ![](../img/Captura6.PNG)
 ### ip address list
 La orden **ip address list** se utiliza para configurar y mostrar los interfaces de red de Linux incluyendo las que no están activas. Se indican varios parámetros:
+
 
 * La dirección IP de la maquina.
 * La mascara de la red local.
