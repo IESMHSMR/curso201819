@@ -1,6 +1,6 @@
 # Readme.md
 ## ¿Que es?
-Un archivo **Readme** es un archivo de texto que presenta y explica un proyecto. Contiene información que comúnmente se requiere para comprender de que se trata el proyecto.
+Un archivo **Readme**, es un archivo de texto que presenta y explica un proyecto. Contiene información que comúnmente se requiere para comprender de que se trata el proyecto.
 ## ¿Por que deberia hacerlo?
 Es una forma facil de responder a las preguntas que la gente probablemente tenga sobre como instalar o usar su proyecto.
 ## ¿Cuando debo hacerlo?

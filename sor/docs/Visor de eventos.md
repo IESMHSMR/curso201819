@@ -16,7 +16,7 @@ Para abrirlo teclea **Visor** una vez pulsado el botón **Inicio** o ejecuta el 
 
 
 
-![](C:/Users/usuario/Desktop/GitHub/curso201819/sor/img/Captura1.jpg)
+![](../img/Captura1.jpg)
 
 
 
