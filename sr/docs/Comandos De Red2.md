@@ -1,4 +1,4 @@
-	TCP/IP Windows
+	TCP/IP Windows 
 Para configurar la configuración TCP/IP de windows de hace gráficamente, de tal forma que iríamos a la zona inferior derecha y en la pantalla con un cable de Internet (rj45)
 ![](https://csirc.ugr.es/opencms/export/sites/default/informatica/Galerias/Imagenes/ImagRedes/tcp_w10_1_1.png)
 
@@ -125,3 +125,6 @@ Te enseña cada tarjeta de red con su configuración básica
 Te enseña la configuración básica de las tarjetas de red
 
 ![](https://lh3.googleusercontent.com/9-aD25MFvUSnPKUCevLfJ0kMRwCTQFbFvXh3tOdeWS8dABPBbCvtWOBOMIdpYzat758--cg=s170)
+
+
+Hecho por: Ivan
