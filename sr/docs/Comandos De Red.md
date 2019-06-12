@@ -4,7 +4,7 @@
 
 ### ipconfig
 
-Muestra la información de nuestro equipo como...........POR FIN!
+Muestra la información de nuestro equipo como
 >**Descripción** - Nombre del adaptador o tarjeta de red utilizado en la conexión.
 
 >**Dirección IPV4** - Es la dirección IP asignada al equipo en la red local.
