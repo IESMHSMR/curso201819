@@ -1,4 +1,8 @@
-	TCP/IP Windows 
+﻿	TCP/IP Windows
+HOLA MUY BUENAS ME LLAMO DAVID ALONSO Y HE HACKEADO A IVANCAYON
+
+
+
 Para configurar la configuración TCP/IP de windows de hace gráficamente, de tal forma que iríamos a la zona inferior derecha y en la pantalla con un cable de Internet (rj45)
 
 ![](../img2/portatilctcpi.PNG)
