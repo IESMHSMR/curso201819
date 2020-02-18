@@ -9,7 +9,7 @@ Muestra la información de nuestro equipo como
 
 >**Dirección IPV4** - Es la dirección IP/mascara asignada al equipo en la red local.
 
->**Puerta de enlace predeterminada** - Es la dirección IP del equipo que funciona como servidor y que tiene acceso a internet.
+>**Puerta de enlace predeterminada** - Es la dirección IP del equipo que funciona como router y que tiene acceso a internet.
 
 ![](../img/Captura1.PNG)
 
@@ -19,7 +19,7 @@ Muestra la información de nuestro equipo como:
 
 >**Dirección IPV4** - Es la dirección IP/mascara asignada al equipo en la red local.
 
->**Puerta de enlace predeterminada** - Es la dirección IP del equipo que funciona como servidor y que tiene acceso a internet.
+>**Puerta de enlace predeterminada** - Es la dirección IP del equipo que funciona como router y que tiene acceso a internet.
 
 >**Servidores DNS** - Son los servidores con los cuales el equipo anterior gestiona en la red la relación nombre de dominio/Dirección IP de las paginas solicitadas.
 
