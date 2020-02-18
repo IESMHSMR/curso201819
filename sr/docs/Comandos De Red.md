@@ -7,7 +7,7 @@
 Muestra la información de nuestro equipo como
 >**Descripción** - Nombre del adaptador o tarjeta de red utilizado en la conexión.
 
->**Dirección IPV4** - Es la dirección IP asignada al equipo en la red local.
+>**Dirección IPV4** - Es la dirección IP/mascara asignada al equipo en la red local.
 
 >**Puerta de enlace predeterminada** - Es la dirección IP del equipo que funciona como servidor y que tiene acceso a internet.
 
@@ -17,7 +17,7 @@ Muestra la información de nuestro equipo como
 Muestra la información de nuestro equipo como:
 >**Descripción** - Nombre del adaptador o tarjeta de red utilizado en la conexión.
 
->**Dirección IPV4** - Es la dirección IP asignada al equipo en la red local.
+>**Dirección IPV4** - Es la dirección IP/mascara asignada al equipo en la red local.
 
 >**Puerta de enlace predeterminada** - Es la dirección IP del equipo que funciona como servidor y que tiene acceso a internet.
 
