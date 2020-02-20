@@ -6,7 +6,7 @@
 
 Muestra la información de nuestro equipo como
 >**Descripción** - Nombre del adaptador o tarjeta de red utilizado en la conexión con las modificaciones del 
-jueves 20 febrero.
+jueves 20 febrero. Modificación para Matea
 
 >**Dirección IPV4** - Es la dirección IP/mascara asignada al equipo en la red local.
 
